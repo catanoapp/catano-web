@@ -1,2 +1,2 @@
-# moneto-web
+# catano-web
 Browser based client
